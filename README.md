@@ -2,7 +2,7 @@
 
 ### Contact
 
-<p align="center">
+<p>
   <a href="mailto:dealmeida.andre08@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-dealmeida.andre08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -14,7 +14,7 @@
 
 ### GitHub Stats
 
-<div align="center">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=anndrem&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="450px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrem&layout=compact&theme=github_dark&hide_border=true" width="450px" />
 </div>
@@ -25,7 +25,7 @@
 
 ### Learning
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   &nbsp;
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
