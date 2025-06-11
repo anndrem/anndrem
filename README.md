@@ -1,7 +1,5 @@
 <h1 align="center">Olá. Me chamo André. Seja bem-vindo!</h1>
 
----
-
 ### Contact
 
 <p align="center">
@@ -14,8 +12,6 @@
   </a>
 </p>
 
----
-
 ### GitHub Stats
 
 <div align="center">
@@ -24,9 +20,8 @@
 </div>
 
 ### About me
-- 🎓 Estudante do 3º ano de Desenvolvimento de Sistemas na **ETEC Jorge Street**
+- Estudante do 3º ano de Desenvolvimento de Sistemas na **ETEC Jorge Street**
 
----
 
 ### Learning
 
@@ -38,4 +33,3 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
----
