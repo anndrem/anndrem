@@ -1,11 +1,11 @@
-<h1 align="center">Olá. Me chame André. Seja bem vindo!</h1>
+<h1 align="center">Olá. Me chamo André. Seja bem-vindo!</h1>
 
 <p align="center">
   <a href="mailto:dealmeida.andre08@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-dealmeida.andre08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/anndremax">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-anndremax-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -13,9 +13,9 @@
 
 ### 🧠 Sobre mim
 
-- 👨‍💻 Desenvolvedor focado em aprendizado contínuo
-- 🔧 Interessado em projetos open-source e soluções criativas
-- 🚀 Sempre explorando novas tecnologias
+- 🎓 Estudante do 3º ano de Desenvolvimento de Sistemas na **ETEC Jorge Street**
+- 💡 Interesses: programação, desenvolvimento web, e novas tecnologias
+- 🚀 Buscando aprendizado contínuo e crescimento na área de tecnologia
 
 ---
 
@@ -27,15 +27,3 @@
 </div>
 
 ---
-
-### 📫 Contato
-
-<p>
-  <a href="mailto:dealmeida.andre08@gmail.com">
-    <img src="https://img.icons8.com/ios-filled/25/ffffff/gmail.png" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/anndremax">
-    <img src="https://img.icons8.com/ios-filled/25/ffffff/linkedin.png" alt="LinkedIn" />
-  </a>
-</p>
