@@ -5,13 +5,7 @@
 <p>
 <a href="mailto:dealmeida.andre08@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-dealmeida.andre08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-@@ -12,19 +11,18 @@
-</a>
-</p>
 
-### GitHub Stats
-
-### GitHub Stats
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=anndrem&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="450px" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrem&layout=compact&theme=github_dark&hide_border=true" width="450px" />
