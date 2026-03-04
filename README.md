@@ -6,18 +6,12 @@
 ### 🚀 About Me
 
 - 🎓 B.Sc. in Computer Science at **University of Campinas (UNICAMP)**
-- 💻 Passionate about software development and problem solving
-- 📚 Constantly learning and exploring new technologies
-- ⚡ Interested in backend development, systems programming, and performance
 
 ---
 
 ### 🛠 Tech Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
