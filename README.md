@@ -1,23 +1,42 @@
-<h1 align="center">Olá. Me chamo André. Seja bem-vindo!</h1>
+<h1 align="center">Hi, I'm André 👋</h1>
+<h3 align="center">Computer Science Student at the University of Campinas (UNICAMP)</h3>
 
-### Contact
+---
+
+### 🚀 About Me
+
+- 🎓 B.Sc. in Computer Science at **University of Campinas (UNICAMP)**
+- 💻 Passionate about software development and problem solving
+- 📚 Constantly learning and exploring new technologies
+- ⚡ Interested in backend development, systems programming, and performance
+
+---
+
+### 🛠 Tech Stack
 
 <p>
-<a href="mailto:dealmeida.andre08@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-dealmeida.andre08@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=anndrem&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="450px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrem&layout=compact&theme=github_dark&hide_border=true" width="450px" />
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anndrem&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrem&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 </div>
 
+---
 
-### About me
-- Estudante do 3º ano de Desenvolvimento de Sistemas na **ETEC Jorge Street**
-
-
-### Learning
+### 📫 Contact
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-&nbsp;
+  <a href="mailto:dealmeida.andre08@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
