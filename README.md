@@ -259,7 +259,7 @@ Resolução de problemas e implementação de algoritmos.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/anndrem/anndrem/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/anndrem/anndrem/gh-pages/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation"/>
 
 </div>
 
