@@ -1,36 +1,37 @@
-<h1 align="center">Hi, I'm André 👋</h1>
-<h3 align="center">Computer Science Student at the University of Campinas (UNICAMP)</h3>
-
----
-
-### 🚀 About Me
-
-- 🎓 B.Sc. in Computer Science at **University of Campinas (UNICAMP)**
-
----
-
-### 🛠 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
+<!--
+████████████████████████████████████████████████████████████████████████████
+                    SYSTEM INITIALIZATION // ANDRÉ
+████████████████████████████████████████████████████████████████████████████
+-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anndrem&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrem&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f2a,100:00f5ff&height=220&section=header&text=ANDRÉ%20MAXIMIANO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20AI&descAlignY=60&descSize=16" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Initializing+Andr%C3%A9's+Developer+System...;Computer+Science+Student+%40+UNICAMP;Full-Stack+Developer;Building+systems+%7C+APIs+%7C+AI+%7C+Web;Always+learning.+Always+building." alt="Typing Animation"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge&color=00f5ff&label=SYSTEM+VISITS"/>
+
 </div>
 
 ---
 
-### 📫 Contact
+<div align="center">
 
-<p>
-  <a href="mailto:dealmeida.andre08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### `> SYSTEM STATUS`
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  SYSTEM ONLINE                                               │
+│                                                              │
+│  USER       : ANDRÉ MAXIMIANO                               │
+│  ROLE       : COMPUTER SCIENCE STUDENT / DEVELOPER          │
+│  UNIVERSITY : UNICAMP                                       │
+│  STATUS     : BUILDING THE FUTURE                            │
+│                                                              │
+│  [████████████████████████████████████████████████] 100%     │
+└──────────────────────────────────────────────────────────────┘
