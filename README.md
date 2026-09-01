@@ -20,27 +20,6 @@
 
 ---
 
-<div align="center">
-
-### `> SYSTEM STATUS`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  SYSTEM ONLINE                                               │
-│                                                              │
-│  USER       : ANDRÉ MAXIMIANO                               │
-│  ROLE       : COMPUTER SCIENCE STUDENT / DEVELOPER          │
-│  UNIVERSITY : UNICAMP                                       │
-│  STATUS     : BUILDING THE FUTURE                            │
-│                                                              │
-│  [████████████████████████████████████████████████] 100%     │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
 # `01` // SOBRE MIM
 
 
@@ -235,26 +214,6 @@ Resolução de problemas e implementação de algoritmos.
 
 ---
 
-# `07` // CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anndrem&bg_color=050505&color=00f5ff&line=00f5ff&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-# `08` // GITHUB TROPHIES
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anndrem&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=4"/>
-
-</div>
-
----
-
 # `09` // CONTRIBUTION MATRIX
 
 <div align="center">
@@ -288,14 +247,6 @@ Resolução de problemas e implementação de algoritmos.
 <div align="center">
 
 <br>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║             "THE FUTURE IS BUILT, NOT PREDICTED."            ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,50:0b1f2a,100:050505&height=120&section=footer"/>
 
