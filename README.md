@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f2a,100:00f5ff&height=220&section=header&text=ANDRÉ%20MAXIMIANO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20ENGINEERING%20%7C%20&descAlignY=60&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0b1f2a,100:00f5ff&height=220&section=header&text=ANDRÉ%20MAXIMIANO&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=COMPUTER%20SCIENCE%20%7C%20SOFTWARE%20ENGINEERING%20%7C&descAlignY=60&descSize=16" width="100%"/>
 
 <br>
 
@@ -39,22 +39,4 @@
 
 01 // SOBRE MIM
 <img align="right" width="330" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-const andre = {
-    name: "André Maximiano",
-    university: "UNICAMP",
-    degree: "Computer Science",
-    focus: [
-        "Software Engineering",
-        "Full-Stack Development",
-        "Algorithms",
-        "Artificial Intelligence"
-    ],
-    currentlyLearning: [
-        "Data Structures",
-        "Algorithms",
-        "Computer Science",
-        "System Design"
-    ],
-    philosophy:
-        "Build. Break. Learn. Improve. Repeat."
-};
+
