@@ -86,7 +86,7 @@ Meu objetivo é evoluir constantemente como engenheiro de software, aprofundando
 
 ---
 
-# `03` // FERRAMENTAS
+# FERRAMENTAS
 
 <div align="center">
 
@@ -173,7 +173,7 @@ Resolução de problemas e implementação de algoritmos.
 
 ---
 
-# `05` // CURRENT OBJECTIVES
+# CURRENT OBJECTIVES
 
 ```bash
 ┌──[andre@github]─[~]
