@@ -20,7 +20,7 @@
 
 ---
 
-# `01` // SOBRE MIM
+# SOBRE MIM
 
 
 ```typescript
@@ -58,7 +58,7 @@ Meu objetivo é evoluir constantemente como engenheiro de software, aprofundando
 
 ---
 
-# `02` // TECH STACK
+# TECH STACK
 
 <div align="center">
 
@@ -105,7 +105,7 @@ Meu objetivo é evoluir constantemente como engenheiro de software, aprofundando
 
 ---
 
-# `04` // PROJETOS
+# PROJETOS
 
 <div align="center">
 
@@ -194,7 +194,7 @@ Resolução de problemas e implementação de algoritmos.
 
 ---
 
-# `06` // GITHUB ANALYTICS
+# GITHUB ANALYTICS
 
 <div align="center">
 
@@ -214,7 +214,7 @@ Resolução de problemas e implementação de algoritmos.
 
 ---
 
-# `09` // CONTRIBUTION MATRIX
+# CONTRIBUTION MATRIX
 
 <div align="center">
 
@@ -224,7 +224,7 @@ Resolução de problemas e implementação de algoritmos.
 
 ---
 
-# `10` // CONNECT
+# CONNECT
 
 <div align="center">
 
@@ -232,11 +232,11 @@ Resolução de problemas e implementação de algoritmos.
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00f5ff"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/anndremax">
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00f5ff"/>
 </a>
 
-<a href="mailto:">
+<a href="mailto:dealmeida.andre08@gmail.com">
 <img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00f5ff"/>
 </a>
 
